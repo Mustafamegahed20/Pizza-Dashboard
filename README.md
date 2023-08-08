@@ -138,5 +138,11 @@ ORDER BY Total_Sales
 ## page 2
 ![image](https://github.com/Mustafamegahed20/Pizza-Dashboard/assets/61358936/92b38c37-c201-4bd6-ad6a-e3760341119c)
 
+## You Can Check Dashboard at novypro : 
+You can give a look to dashboard and can have other insights from it.
+
+https://www.novypro.com/project/pizza-dashboard-6 
+
+
 
 
