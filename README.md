@@ -1,5 +1,5 @@
 # Pizza Restaurant Sales
-Data Analyst Project which covers analyzing , cleaning , modeling and visualizing data
+•	Using SQL for exploring and analyzing data to uncover sales patterns, customer preferences, and performance metrics, then leverage Power BI to create insightful visualizations that aid in making informed decisions.
 
 ## Tools
 1. Sql Server
